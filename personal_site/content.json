@@ -1,0 +1,388 @@
+{
+  "basic": {
+    "name": "LONIX CHU",
+    "tagline": "Project Management Professional & Full-Stack Engineer.",
+    "summary": "As a certified Project Management Professional and accomplished Full-Stack Engineer, I excel at leading software initiatives from conception to successful delivery. With 6+ years experience across high-stakes sectors like retail, CRM, and railway, I specialize in architecting and deploying large-scale, safety-critical systems designed for performance, safety, and peak traffic demands."
+  },
+  "skills": [
+    {
+      "title": "Project Leadership & Management",
+      "icon": "Users",
+      "description": "Proven ability to lead projects from conception to deployment, managing vendors, ensuring security compliance, and driving successful project outcomes.",
+      "tags": [
+        "Project Mgmt",
+        "SDLC",
+        "Vendor Mgmt",
+        "Cybersecurity",
+        "Agile",
+        "Scrum"
+      ]
+    },
+    {
+      "title": "Full-Stack Development",
+      "icon": "Layers",
+      "description": "Extensive experience in architecting and building robust applications, with expertise across both backend and frontend frameworks.",
+      "tags": [".NET", "C#", "PHP", "Laravel", "React", "Vue.js", "SQL"]
+    },
+    {
+      "title": "Cloud & DevOps Architecture",
+      "icon": "CloudCog",
+      "description": "Certified across multiple cloud platforms, skilled in designing scalable cloud-native solutions, implementing modern DevOps practices, and architecting systems.",
+      "tags": [
+        "Software Architecture",
+        "System Design",
+        "Azure",
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "CI/CD"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "type": "Professional Certificate",
+      "nature": "Kubernetes",
+      "title": "CKA: Certified Kubernetes Administrator",
+      "issuer": "The Linux Foundation",
+      "issuerImage": "logo/lf.svg",
+      "issueDate": "May 2024",
+      "certImage": "cert-badge/cka.svg",
+      "certLink": "https://www.credly.com/badges/d36d2fa1-bd51-4c81-bcd4-721129b834b9/linked_in_profile",
+      "color": "#427af4"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "Kubernetes",
+      "title": "CKAD: Certified Kubernetes Application Developer",
+      "issuer": "The Linux Foundation",
+      "issuerImage": "logo/lf.svg",
+      "issueDate": "Apr 2024",
+      "certImage": "cert-badge/ckad.svg",
+      "certLink": "https://www.credly.com/badges/58d7f587-622c-4f6c-8658-43b9c00fb6c8/linked_in_profile",
+      "color": "#427af4"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "Kubernetes",
+      "title": "CKS: Certified Kubernetes Security Specialist",
+      "issuer": "The Linux Foundation",
+      "issuerImage": "logo/lf.svg",
+      "issueDate": "Jul 2024",
+      "certImage": "cert-badge/cks.svg",
+      "certLink": "https://www.credly.com/badges/71854dd1-8c29-4ea1-802f-359044e8dde8/linked_in_profile",
+      "color": "#427af4"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "Cloud",
+      "title": "AWS Certified Solutions Architect - Associate",
+      "issuer": "Amazon Web Services (AWS)",
+      "issuerImage": "logo/aws.svg",
+      "issueDate": "Nov 2022",
+      "certImage": "cert-badge/aws_saa.svg",
+      "certLink": "https://www.credly.com/badges/bc3f3e09-cb4c-4c85-a0f4-164ed251e32b",
+      "color": "#f79400"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "Cloud",
+      "title": "AWS Certified Developer - Associate",
+      "issuer": "Amazon Web Services (AWS)",
+      "issuerImage": "logo/aws.svg",
+      "issueDate": "Feb 2023",
+      "certImage": "cert-badge/aws_dva.svg",
+      "certLink": "https://www.credly.com/badges/8ced859a-65b5-491d-b064-adfce1da914b",
+      "color": "#f79400"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "Cloud",
+      "title": "Azure Developer Associate",
+      "issuer": "Microsoft",
+      "issuerImage": "logo/ms.svg",
+      "issueDate": "Nov 2023",
+      "certImage": "cert-badge/ms_asso.svg",
+      "certLink": "https://learn.microsoft.com/api/credentials/share/en-us/LonixChu-1373/F02EF6A571E68827?sharingId",
+      "color": "#8462ed"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "Cloud",
+      "title": "Azure Cosmos DB Developer Specialty",
+      "issuer": "Microsoft",
+      "issuerImage": "logo/ms.svg",
+      "issueDate": "Jun 2024",
+      "certImage": "cert-badge/ms_spec.svg",
+      "certLink": "https://learn.microsoft.com/api/credentials/share/en-us/LonixChu-1373/D74F92A197867807?sharingId",
+      "color": "#8462ed"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "Cloud",
+      "title": "ACA Cloud Computing Certification",
+      "issuer": "Alibaba Cloud",
+      "issuerImage": "logo/alibaba.svg",
+      "issueDate": "Dec 2023",
+      "certImage": "cert-badge/aca_cc.svg",
+      "certLink": "",
+      "color": "#ff6a00"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "Cloud",
+      "title": "ACA Developer Certification",
+      "issuer": "Alibaba Cloud",
+      "issuerImage": "logo/alibaba.svg",
+      "issueDate": "Dec 2023",
+      "certImage": "cert-badge/aca_dev.svg",
+      "certLink": "",
+      "color": "#ff6a00"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "AI",
+      "title": "Azure AI Engineer Associate",
+      "issuer": "Microsoft",
+      "issuerImage": "logo/ms.svg",
+      "issueDate": "May 2024",
+      "certImage": "cert-badge/ms_asso.svg",
+      "certLink": "https://learn.microsoft.com/api/credentials/share/en-us/LonixChu-1373/8B914F8654FA2F77?sharingId",
+      "color": "#8462ed"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "AI",
+      "title": "OCI 2024 Generative AI Certified Professional",
+      "issuer": "Oracle",
+      "issuerImage": "logo/oracle.svg",
+      "issueDate": "Jul 2024",
+      "certImage": "cert-badge/oci_genAI.svg",
+      "certLink": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=0CE2669EDA0CBBFF7073B7D46B12F6B43ED92E9A0B4FF7F3ABE7F47004E332BD",
+      "color": "#ff6a00"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "AI",
+      "title": "Academy Accreditation - Generative AI Fundamentals",
+      "issuer": "Databricks",
+      "issuerImage": "logo/databricks.svg",
+      "issueDate": "May 2024",
+      "certImage": "cert-badge/databricks_genAI.svg",
+      "certLink": "https://credentials.databricks.com/74b46b47-0c4a-4578-9c08-66cf70015f2d",
+      "color": "#ff6a00"
+    },
+    {
+      "type": "Course Certificate",
+      "nature": "AI",
+      "title": "Machine Learning Specialization",
+      "issuer": "Coursera",
+      "issuerImage": "logo/coursera.svg",
+      "issueDate": "Sep 2023",
+      "certImage": "cert-badge/coursera.svg",
+      "certLink": "https://www.coursera.org/account/accomplishments/specialization/certificate/TJXC2VWPSUF9",
+      "color": "#8462ed"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "DevOps",
+      "title": "GitHub Foundations",
+      "issuer": "GitHub",
+      "issuerImage": "logo/github.svg",
+      "issueDate": "Jul 2024",
+      "certImage": "cert-badge/ghf.svg",
+      "certLink": "https://www.credly.com/badges/f4718ee1-c231-4360-aba8-3b952c357be1/linked_in_profile",
+      "color": "#427af4"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "DevOps",
+      "title": "GitHub Actions",
+      "issuer": "GitHub",
+      "issuerImage": "logo/github.svg",
+      "issueDate": "Jul 2024",
+      "certImage": "cert-badge/gha.svg",
+      "certLink": "https://www.credly.com/badges/80886f82-358a-44a5-8083-91c99b9cd85a/linked_in_profile",
+      "color": "#427af4"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "Database",
+      "title": "Oracle Certified Professional: MySQL 8.0 Database Developer",
+      "issuer": "Oracle",
+      "issuerImage": "logo/oracle.svg",
+      "issueDate": "Jul 2025",
+      "certImage": "cert-badge/ocp_dd.svg",
+      "certLink": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=834D579DEDFF14C688104EEC2CDCD922D2C380FF061CBC1F473D0B7AF76DB2A1",
+      "color": "#f80000"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "Database",
+      "title": "Oracle Certified Professional: MySQL 8.0 Database Administrator",
+      "issuer": "Oracle",
+      "issuerImage": "logo/oracle.svg",
+      "issueDate": "Jul 2025",
+      "certImage": "cert-badge/ocp_dba.svg",
+      "certLink": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=C1DC0E5B5A9740AE940E222F3C118B67051E5FB872AB841B9A878F5CD0B5C497",
+      "color": "#f80000"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "Cybersecurity",
+      "title": "Microsoft Certified: Security Operations Analyst Associate",
+      "issuer": "Microsoft",
+      "issuerImage": "logo/microsoft.svg",
+      "issueDate": "Jun 2025",
+      "certImage": "cert-badge/ms_asso.svg",
+      "certLink": "https://learn.microsoft.com/api/credentials/share/en-us/LonixChu-1373/AF4401953E95C069?sharingId",
+      "color": "#00a4ef"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "DevOps",
+      "title": "Microsoft Certified: DevOps Engineer Expert",
+      "issuer": "Microsoft",
+      "issuerImage": "logo/microsoft.svg",
+      "issueDate": "Jun 2025",
+      "certImage": "cert-badge/ms_expert.svg",
+      "certLink": "https://learn.microsoft.com/api/credentials/share/en-us/LonixChu-1373/298EEAD656FCC438?sharingId=6BB0C58AE8DC9887",
+      "color": "#00a4ef"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "Cybersecurity",
+      "title": "Certified in Cybersecurity (CC)",
+      "issuer": "ISC2",
+      "issuerImage": "logo/isc2.svg",
+      "issueDate": "Jun 2025",
+      "certImage": "cert-badge/isc2_cc.svg",
+      "certLink": "https://www.credly.com/badges/a49990cf-08d3-4e4d-9373-98901456bd4e/public_url",
+      "color": "#006400"
+    }
+  ],
+  "experience": [
+    {
+      "title": ["Analyst Programmer I"],
+      "company": "MTR Corporation Limited",
+      "companySite": "https://www.mtr.com.hk/",
+      "companyLogo": "logo/mtr.svg",
+      "employmentType": "Full-time",
+      "duration": "Nov 2024 — PRESENT",
+      "description": [
+        "Oversee end-to-end project management, ensuring compliance with corporate security standards, system quality benchmarks, and auditable delivery requirements.",
+        "Manage vendor coordination, requirement analysis, and stakeholder communication to deliver secure, high-quality, and traceable solutions.",
+        "Develop comprehensive project documentation, including specifications, progress reports, and technical manuals.",
+        "Lead projects utilizing different methodologies, ensuring timely delivery and quality outputs."
+      ],
+      "skills": [
+        "Project Management",
+        "Software Architecture",
+        "Software Development Life Cycle (SDLC)",
+        "Cybersecurity",
+        "Vendor Management",
+        "Software Documentation",
+        "C#",
+        ".NET"
+      ]
+    },
+    {
+      "title": ["Analyst Programmer"],
+      "company": "MaBelle Jewellery Company Limited",
+      "companySite": "https://www.mabelle.com/",
+      "companyLogo": "logo/mabelle.svg",
+      "employmentType": "Full-time",
+      "duration": "Jun 2023 — Nov 2024",
+      "description": [
+        "Led the revamp of the booking system, enhancing performance, data capture, and staff efficiency by redesigning and integrating multiple legacy systems into a multi-functional CMS using .NET and Vue.js.",
+        "Proposed and developed an integrated RFID native app solution with Flutter, Objective-C, Framework7 and .NET for smart selling and lightweight CRM to enhance businesses.",
+        "Responsible for company Image Management System (IMS) revamping project, with test cases implementation and documentation",
+        "Design and develop several WeChat Mini Programs (微信小程序) for business to serve Mainland customers, with WeCom integration."
+      ],
+      "skills": [
+        "C#",
+        ".NET",
+        "Vue.js",
+        "Windows Dev",
+        "Windows Server",
+        "WeChat Mini Program",
+        "Microsoft SQL Server"
+      ]
+    },
+    {
+      "title": ["Senior Programmer", "Programmer"],
+      "company": "Ztore 士多",
+      "companySite": "https://www.ztore.com/",
+      "companyLogo": "logo/ztore.svg",
+      "employmentType": "Full-time",
+      "duration": "Jul 2020 — Jun 2023",
+      "description": [
+        "Developed and managed Ztore & Neigbuy API services, CMS and Vendor Console, catering to over 1.4M+ customers and 8M+ orders.",
+        "Led multiple Supply Chain, Operation, WMS, Accounting, and Promotion-related service revamps and developments as project and IT PIC.",
+        "Integrated various payment gateways to facilitate business growth.",
+        "TDD for development"
+      ],
+      "skills": [
+        "PHP",
+        "Laravel",
+        "MySQL",
+        "AWS",
+        "Linux",
+        "Docker",
+        "Javascript",
+        "JQuery",
+        "TDD",
+        "Payment Gateway",
+        "Supply Chain"
+      ]
+    },
+    {
+      "title": ["Data Solution Developer", "Graduate Trainee"],
+      "company": "Fimmick Limited",
+      "companySite": "https://www.fimmick.com/",
+      "companyLogo": "logo/fimmick.svg",
+      "employmentType": "Full-time",
+      "duration": "Jul 2018 — Jul 2020",
+      "description": [
+        "Work on CRM and Analytic products and projects design and full-stack development to collect and analyze data, helping client's CRM businesses.",
+        "Products: Marketing Automation Tool, Stampcard System, Chatbot, Payment Solutions.",
+        "Rotated as Web Developer, CRM Data Analyst and Account Executive in Graduate Trainee Programme.",
+        "Designed, developed and maintain a web based CRM System to enhence Consumer Journey setup process on both frontend and backend side.",
+        "Worked on social media marketing, serving accounts and launching online campaigns."
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "Laravel",
+        "MySQL",
+        "Javascript",
+        "JQuery",
+        "CRM",
+        "Customer Journey",
+        "Google Analytics",
+        "Facebook Pixel"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "name": "LinkedIn",
+      "url": "https://hk.linkedin.com/in/lonixchu",
+      "icon": "IconBrandLinkedin",
+      "color": "#0a66c2"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/lonixchu-hk",
+      "icon": "IconBrandGithub",
+      "color": "#0d1117"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:lonixchu.hk@gmail.com",
+      "icon": "IconBrandGmail",
+      "color": "#ff6a00"
+    }
+  ]
+}
