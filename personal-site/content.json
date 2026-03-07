@@ -240,6 +240,17 @@
     },
     {
       "type": "Professional Certificate",
+      "nature": "Cybersecurity",
+      "title": "Microsoft Certified: Cybersecurity Architect Expert",
+      "issuer": "Microsoft",
+      "issuerImage": "logo/microsoft.svg",
+      "issueDate": "Jun 2026",
+      "certImage": "cert-badge/ms_expert.svg",
+      "certLink": "https://learn.microsoft.com/api/credentials/share/en-us/LonixChu-1373/7ADF55CF30F42D08?sharingId=6BB0C58AE8DC9887",
+      "color": "#00a4ef"
+    },
+    {
+      "type": "Professional Certificate",
       "nature": "DevOps",
       "title": "Microsoft Certified: DevOps Engineer Expert",
       "issuer": "Microsoft",
