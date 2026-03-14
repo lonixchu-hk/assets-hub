@@ -258,7 +258,8 @@
       "issueDate": "Mar 2026",
       "certImage": "cert-badge/ms_expert.svg",
       "certLink": "https://learn.microsoft.com/api/credentials/share/en-us/LonixChu-1373/1DB6991709CB9F54?sharingId=6BB0C58AE8DC9887",
-      "color": "#00a4ef"
+      "color": "#00a4ef",
+      "isHighlight": true
     },
     {
       "type": "Professional Certificate",
