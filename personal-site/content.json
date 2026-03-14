@@ -49,7 +49,8 @@
       "issueDate": "May 2024",
       "certImage": "cert-badge/cka.svg",
       "certLink": "https://www.credly.com/badges/d36d2fa1-bd51-4c81-bcd4-721129b834b9/linked_in_profile",
-      "color": "#427af4"
+      "color": "#427af4",
+      "isHighlight": true
     },
     {
       "type": "Professional Certificate",
@@ -71,7 +72,8 @@
       "issueDate": "Jul 2024",
       "certImage": "cert-badge/cks.svg",
       "certLink": "https://www.credly.com/badges/71854dd1-8c29-4ea1-802f-359044e8dde8/linked_in_profile",
-      "color": "#427af4"
+      "color": "#427af4",
+      "isHighlight": true
     },
     {
       "type": "Professional Certificate",
@@ -270,7 +272,8 @@
       "issueDate": "Mar 2026",
       "certImage": "cert-badge/ms_expert.svg",
       "certLink": "https://learn.microsoft.com/api/credentials/share/en-us/LonixChu-1373/7ADF55CF30F42D08?sharingId=6BB0C58AE8DC9887",
-      "color": "#00a4ef"
+      "color": "#00a4ef",
+      "isHighlight": true
     },
     {
       "type": "Professional Certificate",
@@ -281,7 +284,8 @@
       "issueDate": "Jun 2025",
       "certImage": "cert-badge/ms_expert.svg",
       "certLink": "https://learn.microsoft.com/api/credentials/share/en-us/LonixChu-1373/298EEAD656FCC438?sharingId=6BB0C58AE8DC9887",
-      "color": "#00a4ef"
+      "color": "#00a4ef",
+      "isHighlight": true
     },
     {
       "type": "Professional Certificate",
@@ -292,7 +296,8 @@
       "issueDate": "Jun 2025",
       "certImage": "cert-badge/isc2_cc.svg",
       "certLink": "https://www.credly.com/badges/a49990cf-08d3-4e4d-9373-98901456bd4e/public_url",
-      "color": "#006400"
+      "color": "#006400",
+      "isHighlight": true
     }
   ],
   "experience": [
@@ -330,7 +335,7 @@
       "description": [
         "Led the revamp of the booking system, enhancing performance, data capture, and staff efficiency by redesigning and integrating multiple legacy systems into a multi-functional CMS using .NET and Vue.js.",
         "Proposed and developed an integrated RFID native app solution with Flutter, Objective-C, Framework7 and .NET for smart selling and lightweight CRM to enhance businesses.",
-        "Responsible for company Image Management System (IMS) revamping project, with test cases implementation and documentation",
+        "Responsible for the company Image Management System (IMS) revamping project, with test cases implementation and documentation",
         "Design and develop several WeChat Mini Programs (微信小程序) for business to serve Mainland customers, with WeCom integration."
       ],
       "skills": [
