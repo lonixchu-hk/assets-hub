@@ -235,7 +235,29 @@
       "issuerImage": "logo/microsoft.svg",
       "issueDate": "Jun 2025",
       "certImage": "cert-badge/ms_asso.svg",
-      "certLink": "https://learn.microsoft.com/api/credentials/share/en-us/LonixChu-1373/AF4401953E95C069?sharingId",
+      "certLink": "https://learn.microsoft.com/api/credentials/share/en-us/LonixChu-1373/AF4401953E95C069?sharingId=6BB0C58AE8DC9887",
+      "color": "#00a4ef"
+    },
+        {
+      "type": "Professional Certificate",
+      "nature": "Architecture",
+      "title": "Microsoft Certified: Azure Administrator Associate",
+      "issuer": "Microsoft",
+      "issuerImage": "logo/microsoft.svg",
+      "issueDate": "Mar 2026",
+      "certImage": "cert-badge/ms_asso.svg",
+      "certLink": "https://learn.microsoft.com/api/credentials/share/en-us/LonixChu-1373/82033982A3B583DF?sharingId=6BB0C58AE8DC9887",
+      "color": "#00a4ef"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "Architecture",
+      "title": "Microsoft Certified: Azure Solutions Architect Expert",
+      "issuer": "Microsoft",
+      "issuerImage": "logo/microsoft.svg",
+      "issueDate": "Mar 2026",
+      "certImage": "cert-badge/ms_expert.svg",
+      "certLink": "https://learn.microsoft.com/api/credentials/share/en-us/LonixChu-1373/1DB6991709CB9F54?sharingId=6BB0C58AE8DC9887",
       "color": "#00a4ef"
     },
     {
