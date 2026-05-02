@@ -42,6 +42,17 @@
   "certifications": [
     {
       "type": "Professional Certificate",
+      "nature": "PM",
+      "title": "Project Management Professional (PMP)®",
+      "issuer": "Project Management Institute",
+      "issuerImage": "logo/pmi.svg",
+      "issueDate": "May 2026",
+      "certImage": "cert-badge/pmp.svg",
+      "color": "#427af4", 
+      "isHighlight": true
+    },
+    {
+      "type": "Professional Certificate",
       "nature": "Kubernetes",
       "title": "CKA: Certified Kubernetes Administrator",
       "issuer": "The Linux Foundation",
