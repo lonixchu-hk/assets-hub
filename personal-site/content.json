@@ -48,6 +48,7 @@
       "issuerImage": "logo/pmi.svg",
       "issueDate": "May 2026",
       "certImage": "cert-badge/pmp.svg",
+      "certLink": "https://www.credly.com/badges/38e39ad8-548a-4f0c-bb69-97cb100f07d9/linked_in_profile",
       "color": "#427af4", 
       "isHighlight": true
     },
