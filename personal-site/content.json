@@ -167,6 +167,18 @@
     {
       "type": "Professional Certificate",
       "nature": "AI",
+      "title": "Microsoft Certified: Agentic AI Business Solutions Architect",
+      "issuer": "Microsoft",
+      "issuerImage": "logo/ms.svg",
+      "issueDate": "Jul 2026",
+      "certImage": "cert-badge/ms_expert.svg",
+      "certLink": "https://learn.microsoft.com/api/credentials/share/en-us/LonixChu-1373/CF31CC5705A9092?sharingId=6BB0C58AE8DC9887",
+      "color": "#00a4ef",
+      "isHighlight": true
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "AI",
       "title": "OCI 2024 Generative AI Certified Professional",
       "issuer": "Oracle",
       "issuerImage": "logo/oracle.svg",
@@ -196,6 +208,17 @@
       "certImage": "cert-badge/coursera.svg",
       "certLink": "https://www.coursera.org/account/accomplishments/specialization/certificate/TJXC2VWPSUF9",
       "color": "#8462ed"
+    },
+    {
+      "type": "Professional Certificate",
+      "nature": "AI",
+      "title": "GitHub Copilot",
+      "issuer": "GitHub",
+      "issuerImage": "logo/github.svg",
+      "issueDate": "Oct 2024",
+      "certImage": "cert-badge/gh_copilot.png",
+      "certLink": "https://www.credly.com/badges/b7460af6-5eb8-43bf-a8b8-613346c5b52e/linked_in_profile",
+      "color": "#427af4"
     },
     {
       "type": "Professional Certificate",
