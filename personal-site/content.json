@@ -210,6 +210,17 @@
       "color": "#8462ed"
     },
     {
+      "type": "Course Certificate",
+      "nature": "PM",
+      "title": "Google Project Management Professional Certificate(v.3)",
+      "issuer": "Coursera",
+      "issuerImage": "logo/coursera.svg",
+      "issueDate": "Aug 2026",
+      "certImage": "cert-badge/google_project_management_v3.svg",
+      "certLink": "https://www.credly.com/badges/f040c523-b6b7-4514-8d4f-6ed8305c3056/public_url",
+      "color": "#8462ed"
+    },
+    {
       "type": "Professional Certificate",
       "nature": "AI",
       "title": "GitHub Copilot",
