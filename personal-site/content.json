@@ -54,6 +54,17 @@
     },
     {
       "type": "Professional Certificate",
+      "nature": "PM",
+      "title": "Professional Scrum Master™ I (PSM I)",
+      "issuer": "Scrum.org",
+      "issuerImage": "logo/scrumorg.svg",
+      "issueDate": "Nov 2026",
+      "certImage": "cert-badge/psm1.svg",
+      "certLink": "https://www.credly.com/badges/a3f86ac9-040a-4790-a5fe-e3ab3a28c6bf/public_url",
+      "color": "#3e89a4"
+    },
+    {
+      "type": "Professional Certificate",
       "nature": "Kubernetes",
       "title": "CKA: Certified Kubernetes Administrator",
       "issuer": "The Linux Foundation",
